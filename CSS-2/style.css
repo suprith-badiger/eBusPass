@@ -1,0 +1,225 @@
+#title{   
+    color: white;
+    background: linear-gradient(45deg, #2196F3 0%, #010c14 100%);
+    background-size: 200% 200%;
+    height: 100%;
+    width: 100%;
+    animation: example 6s ease infinite;
+}
+      
+    @keyframes example {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+         background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+    }
+      
+#verify-pass{
+    background-color:#265e8d;
+}
+
+.search-pass-form{
+    background-color: #b5d1e9;
+    color:white;
+}
+
+body{
+    
+    font-family: "Montserrat";
+}
+
+
+h1{
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 2.5rem;
+    line-height: 2.0;
+    padding-bottom: 15px;
+}
+
+h2{
+    font-family: "Montserrat";
+    font-weight: bold;
+    line-height: 1.5;
+    padding-top: 40px;
+    padding-bottom : 40px;
+    color:#20649b;
+}
+
+.line{
+    color: white;
+    margin-left: 20px;
+}
+
+
+.container-fluid{
+    padding: 7% 15%;
+}
+
+.container-fluid-2{
+    padding: 4% 10%;
+}
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.0rem;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+    font-weight: lighter;
+}
+
+.download-button{
+    margin: 8% 3% 5% 0;
+}
+
+.fa-user{
+    padding-right: 15px;
+}
+
+.login-button{
+    padding-top: 10px;
+}
+
+
+.dropdown-item{
+    background: transparent;
+}
+
+
+
+
+.welcome-msg{
+    font-weight: lighter;
+    padding: 10px;
+
+}
+
+.login-form1{
+    padding: 10% 3%;
+}
+
+
+.login-form1{
+    padding: 10% 3%;
+}
+
+.fa-user{
+    padding-right: 15px;
+}
+
+.login-checkbox{
+    padding: 3%;
+    margin-left: 12px;
+}
+
+
+
+/* footeer */
+
+
+.social-icon {
+    margin: 30px 30px;
+}
+
+.dark-section{
+    text-align: center;
+    /* background-color:#265e8d; */
+    background-color:  #212529;
+    color: white;
+    
+}
+
+.container-footer{
+    padding: 3%;
+    line-height: 1rem;
+}
+
+
+
+.styled-table {
+    font-weight: 500;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table thead tr {
+    background-color: #68adfd;
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;  
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+    background-color: rgb(222, 236, 251);
+}
+
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #68adfd;
+}
+.styled-table tbody {
+    /* font-weight: bold; */
+    color: #303438;
+
+}
+
+.serach-sec{
+    padding: 20px 5px;
+}
+
+
+.question-form{
+    padding-top: 20px;
+}
+
+.form-control{
+    margin: 10px;
+}
+
+.submit-button{
+    margin-left: 400px;
+    background-color: #2196f3;
+    color: white;
+}
+
+.serach-sec{
+    padding-right: 25px;
+}
+
+.search-sec-result{
+    padding-top: 40px;
+}
+
+.our-img{
+    height:200px;
+    width: 210px;
+}
+
+.about-sec{
+    margin: 50px 0;
+}
