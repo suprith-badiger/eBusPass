@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(233, 243, 254);
+
+}
+
+#view-enq{
+    margin: 200px;
+}
+
+.card-bg{
+    
+    margin: 10px 5px;
+    padding: 2% 2%;
+    margin-bottom: 5%;
+    box-shadow:  rgba(50, 92, 160, 0.3) 6px 20px 15px; 
+    background-color: rgb(206, 230, 255);
+    text-align: center;
+   
+}
+

@@ -1,0 +1,48 @@
+#dept{
+    padding: 12% 1% 0%;
+    background-color: rgb(234, 244, 255);
+   
+}
+.cat-card{
+    text-align: center;
+    margin: 10px 5px;
+    padding: 2% 2%;
+    margin-bottom: 5%;
+    box-shadow:  rgba(50, 92, 160, 0.3) 6px 20px 15px 0px; 
+    background-color: rgb(206, 230, 255) !important;
+}
+
+.cat-card:hover{
+    background-color: rgba(181, 220, 249, 0.838);
+}
+
+.cat-card-img-top{
+    padding: 50px;
+    background-color: rgb(234, 244, 255) !important;
+    border-radius: 0.4rem;
+}
+
+.action-img{
+    margin-left: 3px;
+    width: 12px;
+    height: 12px;
+}
+
+.cat-anchortag{
+    text-decoration: none;
+    color: rgb(25, 24, 24);
+}
+.modal{
+    background-color: rgb(234, 244, 255) !important;
+}
+
+.form-control{
+    background-color: rgb(239, 246, 255);
+}
+
+.forms-row{
+    margin: 2% 2%;
+    text-align: right;
+    font-weight: 600;
+    font-size: 20px;
+}

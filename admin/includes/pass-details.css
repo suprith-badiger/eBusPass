@@ -1,0 +1,13 @@
+body{
+     background-color:rgba(213, 233, 249, 0.838);
+}
+
+#pass-details{
+    margin: 120px;
+}
+
+.stamp{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+}

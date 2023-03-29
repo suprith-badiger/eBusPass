@@ -1,0 +1,27 @@
+.navbar{
+    /* background-color: #68adfd; */
+    background-color: #3b9ef0;
+}
+.navbar-brand, .nav-link{
+    color: white;
+}
+
+.nav-item , .navbar-brand{
+    font-weight: 600;
+    font-size: 22px;
+    margin: 0 3%;
+}
+
+
+.nav-admin{
+    margin-left: 80px;
+}
+
+.container-fluid{
+    padding: 1% 10% 1%;
+}
+
+
+
+
+

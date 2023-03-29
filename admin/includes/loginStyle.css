@@ -1,0 +1,18 @@
+#login{
+    padding: 7% 5%;
+}
+
+.login-form1{
+    margin-top: 100px;
+    padding: 1% 5%;
+}
+
+.fa-id-card{
+    margin-right: 10px;
+}
+
+.btn-primary{
+    background-color: rgba(62, 153, 222, 0.838);
+    width: 50%;
+    align-items: center;
+}
