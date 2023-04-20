@@ -1,5 +1,3 @@
-<h2>This is helpful to Bus administration by reducing the paperwork and time consumption and makes the process of getting Bus pass as simple and fast</h2>
-
 <h4> Home page </h4>
 <img width="952" alt="2023-01-17_11-03-32-498" src="https://user-images.githubusercontent.com/98753159/228613728-e87d2b30-804d-42eb-bb3a-0a50768cbfd7.png">
 <img width="945" alt="Screenshot_20230115_081051" src="https://user-images.githubusercontent.com/98753159/228613781-ade211d5-42d0-49f9-8b45-8d7834875e26.png">
